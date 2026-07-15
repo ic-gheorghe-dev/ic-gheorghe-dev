@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ionut-Cristian! 👋
 
-<!--
-**ic-gheorghe-dev/ic-gheorghe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineer** with 1.8 years of professional experience building and maintaining production-grade HealthTech and EMR platforms. Currently, I am expanding my skills into the **DevOps & Infrastructure** landscape.
 
-Here are some ideas to get you started:
+- 🛠️ **What I do:** Backend development, database performance optimization, and live system troubleshooting.
+- ⚙️ **Current focus:** Building my local WSL2/Docker homelab to master automated deployments and infrastructure management.
+- 🎓 **Education:** Electrical Engineering student at University POLITEHNICA of Bucharest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Tools
+
+- **Languages & Frameworks:** PHP (Laravel), JavaScript, jQuery, HTML5 / CSS3
+- **Databases:** MySQL (Schema Design, Query Optimization)
+- **Infrastructure & DevOps:** Linux (Ubuntu), WSL2, Docker, Git (GitLab, Gitea)
+
+---
+
+### 📂 Active Projects
+*   **[Local Homelab & Virtualization]** (Active) - Configuring a local virtualization sandbox on Windows 11 / WSL2 (Ubuntu) to deploy containerized microservices.
+
+---
+
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/ionut-chris/)!*
