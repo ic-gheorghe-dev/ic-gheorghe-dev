@@ -21,4 +21,4 @@ I am a **Software Engineer** with 1.8 years of professional experience building 
 
 ---
 
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/ionut-chris/)!*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/ic-gheorghe-dev/)!*
