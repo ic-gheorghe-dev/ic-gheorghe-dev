@@ -16,9 +16,4 @@ I am a **Software Engineer** with 1.8 years of professional experience building 
 
 ---
 
-### 📂 Active Projects
-*   **[Local Homelab & Virtualization]** (Active) - Configuring a local virtualization sandbox on Windows 11 / WSL2 (Ubuntu) to deploy containerized microservices.
-
----
-
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/ic-gheorghe-dev/)!*
