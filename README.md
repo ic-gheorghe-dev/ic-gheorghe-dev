@@ -1,6 +1,6 @@
 # Hi, I'm Ionut-Cristian! 👋
 
-I am a **Software Engineer** with 1.8 years of professional experience building and maintaining production-grade HealthTech and EMR platforms. Currently, I am expanding my skills into the **DevOps & Infrastructure** landscape.
+I am a **Software Engineer** with 1 year and 8 months of professional experience building and maintaining production-grade HealthTech and EMR platforms. Currently, I am expanding my skills into the **DevOps & Infrastructure** landscape.
 
 - 🛠️ **What I do:** Backend development, database performance optimization, and live system troubleshooting.
 - ⚙️ **Current focus:** Building my local WSL2/Docker homelab to master automated deployments and infrastructure management.
